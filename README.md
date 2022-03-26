@@ -11,6 +11,6 @@ A website that offers fitness training services.
 https://abel3213.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Abel Perez
 
 ### ©️2019 Run Buddy, Inc
