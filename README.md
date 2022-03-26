@@ -12,3 +12,5 @@ https://abel3213.github.io/run-buddy/
 
 ## 
 Made with ❤️ by Abel Perez
+
+### ©️2019 Run Buddy, Inc
