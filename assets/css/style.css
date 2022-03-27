@@ -509,6 +509,6 @@ section {
     }
   
     .contact-form {
-      ogit r: 3;
+      order: 3;
     }
   }
