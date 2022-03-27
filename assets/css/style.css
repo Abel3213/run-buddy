@@ -295,9 +295,10 @@ section {
     line-height: 1.5;
     font-size: 16px;
     font-style: normal;
+    color: white;
 }
 
-.contact-form input, .contact-form text area {
+.contact-form input, .contact-form textarea {
     border: 1px solid #024e76;
     display: block;
     padding: 7px 15px;
